@@ -1,6 +1,6 @@
 https://f8ubuntu.online/
 
-### 1.HEADER
+### 1. HEADER
 #### index 1
     Navbar CSS
 #### index 2
@@ -31,7 +31,7 @@ https://f8ubuntu.online/
     Header user info
 #### index 15
     Header fix UI bugs
-### 2.CONTAINER 
+### 2. CONTAINER 
 #### index 16
     Danh mục: Dựng khung + Base responsive
 #### index 17
