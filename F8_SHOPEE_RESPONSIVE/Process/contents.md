@@ -17,12 +17,12 @@
 #### index 31
     Mobile footer
 
-Note: các private ip: 192. 10. 127.
-    Cách truy cập từ điện thoại
-    Terminal
-        ipconfig
-        IPv4 Address. . . . . . . . . . . : 192.168.67.1
-    Mobile
-        gõ ip:port
-        VD: 192.168.67.1:5500
+#### *Cách truy cập từ điện thoại*
+	Các private ip: 192. 10. 127.
+	- Terminal
+		ipconfig  
+		IPv4 Address. . . . . . . . . . . : 192.168.67.1  
+	- Mobile
+		gõ ip:port
+		VD: 192.168.67.1:5500
         
